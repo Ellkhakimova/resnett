@@ -1,2 +1,4 @@
 # resnett
-https://colab.research.google.com/drive/1ze4dH795UsvlmnitF1NomGiSVv6lbcNw?usp=sharing
+https://disk.360.yandex.ru/d/x0dxtGBzDzUgGA
+Прикрепила ссылкой на диск, просто сам файл очень большой, надеюсь так можно было.
+Тут сам код и фотографии. 
